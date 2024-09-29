@@ -1,4 +1,4 @@
-<h1 align="center">Buenas</h1>
+<h1 align="center">:)</h1>
 
 <!--- snake -->
 <div align="center">
